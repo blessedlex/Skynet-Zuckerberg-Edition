@@ -1,9 +1,10 @@
 # Skynet-Zuckerberg-Edition
-CYBR 4580-8950 IA Capstone Project
+### Alexa Aikens, Caroline Arens, Sean May, Sasha Price
+### CYBR 4580-8950 IA Capstone Project Fall 2020
+### University of Nebraska at Omaha
 
 ## Executive Project Summary
-some text goes here
- 
+
 ## Proposed Project Timeline
 
 ## Project-Oriented Risk List
