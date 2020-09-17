@@ -18,11 +18,8 @@ Gantt Chart
 |Risk Name (value)  | Impact     | Likelihood | Description |
 |-------------------|------------|------------|-------------|
 |Team Member Availability (28) | 7 | 4 | Aligning meeting times around academic and work schedules may deem difficult  |
-|-------------------|------------|------------|-------------|
 |Proper Software (40) | 8 | 5 | Obtaining the proper software to complete tasks such as MS Project for a Gantt chart could be difficult |
-|-------------------|------------|------------|-------------|
 |Coding Skillset (54) | 9 | 6 | Some of the open source libraries we are reviewing may not be in a coding language we know |
-|-------------------|------------|------------|-------------|
 ## Literature Review
 litreview.md
 ## Project Methodology
