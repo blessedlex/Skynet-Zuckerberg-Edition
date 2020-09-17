@@ -21,7 +21,7 @@ Gantt Chart
 |Proper Software (40) | 8 | 5 | Obtaining the proper software to complete tasks such as MS Project for a Gantt chart could be difficult |
 |Coding Skillset (54) | 9 | 6 | Some of the open source libraries we are reviewing may not be in a coding language we know |
 ## Literature Review
-litreview.md
+[litreview.md] (https://github.com/blessedlex/Skynet-Zuckerberg-Edition/blob/master/litreview.md)
 ## Project Methodology
 
 ## Resources Needed
