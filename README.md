@@ -23,8 +23,12 @@ Gantt Chart - [Proposed Project Timeline](https://drive.google.com/file/d/1uqOC6
 |Team Member Availability (28) | 7 | 4 | Aligning meeting times around academic and work schedules may deem difficult  |
 |Proper Software (40) | 8 | 5 | Obtaining the proper software to complete tasks such as MS Project for a Gantt chart could be difficult |
 |Coding Skillset (54) | 9 | 6 | Some of the open source libraries we are reviewing may not be in a coding language we know |
+|Software Availability (27) | 9 | 3 | Not all of the necessary software for analysis may be open source |
+|Analysis Complexity (28) | 7 | 4 | The scope of the analysis may be very large for our time frame |
+
 ## Literature Review
 [litreview.md](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/blob/master/litreview.md)
+
 ## Project Methodology
 
 ## Resources Needed
