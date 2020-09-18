@@ -47,7 +47,7 @@ In our risk list, we have identified the major sources of risk and what we plan 
 ## First Sprint Plan
 [GitHubs Kanban Board](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/issues)
 ### Issues for Sprint 1
-[Review and test opt-out option for Facebook's facial recognition](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/issues/7)
-[Research convolutional neural networks (CNNs) and how they are significant to Facebook's AI research](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/issues/6Research convolutional neural networks (CNNs) and how they are significant to Facebook's AI research)
+1. [Review and test opt-out option for Facebook's facial recognition](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/issues/7)
+2. [Research convolutional neural networks (CNNs) and how they are significant to Facebook's AI research](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/issues/6)
 
 ## Presentation Video
