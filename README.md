@@ -40,8 +40,8 @@ In our risk list, we have identified the major sources of risk and what we plan 
 |Resource  | Dr. Hale needed? | Investigating Team member | Description |
 |-------------------|---------|---------------------------|-------------|
 |Facebook policies | No | Caroline | Digging in to the policies to see how the data is used within Facebook  |
-|Facebook Open Source Library | No | team member | Digging into the library to exam how the data is used and transferred in to Facebook storage. |
-| | | | |
+|Facebook Open Source Library | No | Entire Team | Digging into the library to exam how the data is used and transferred in to Facebook storage. |
+|Library Database | No | Entire Team| Using Library Database to gather backgrpund information on facial recognitions |
 
 ## First Sprint Plan
 
