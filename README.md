@@ -14,11 +14,14 @@ The main objectives that we've outlined include:
 The merit of accomplishing our project goal and objectives is to go beyond spreading awareness about Facebook's AI research and user policy agreements. We expect to further expose and advance the conversation about what exactly Facebook may be designing in their AI research labs. The end goal may be beneficial to soceity but as we've seen from Facebook's previous history with Cambridge Analytica, is our data truly in the best hands? Furthermore, how is their facial recognition systems utilizing user data behind the scenes?
 
 ## Proposed Project Timeline
-Kanban board
-Gantt Chart - [Proposed Project Timeline](https://drive.google.com/file/d/1uqOC6sQLOH7JOt9j-15e2O3i_wqgwTfK/view?usp=sharing)
+Below is our proposed project timeline. Our Kanban board can be found here: [Project Sprint Plan](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/projects/1)
+
+![Gantt1](https://user-images.githubusercontent.com/28307295/93648164-ba750880-f9cf-11ea-8a79-80a62b61d74f.PNG)
+![Gantt2](https://user-images.githubusercontent.com/28307295/93648165-bba63580-f9cf-11ea-870d-16a6fdb914c2.PNG)
+
 
 ## Project-Oriented Risk List
-|Risk Name (value)  | Impact     | Likelihood | Description |
+|Risk Name  | Impact     | Likelihood | Description |
 |-------------------|------------|------------|-------------|
 |Team Member Availability (28) | 7 | 4 | Aligning meeting times around academic and work schedules may deem difficult  |
 |Proper Software (40) | 8 | 5 | Obtaining the proper software to complete tasks such as MS Project for a Gantt chart could be difficult |
