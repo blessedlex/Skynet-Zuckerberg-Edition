@@ -15,7 +15,7 @@ The merit of accomplishing our project goal and objectives is to go beyond sprea
 
 ## Proposed Project Timeline
 Kanban board
-Gantt Chart
+Gantt Chart - [Proposed Project Timeline](https://drive.google.com/file/d/1uqOC6sQLOH7JOt9j-15e2O3i_wqgwTfK/view?usp=sharing)
 
 ## Project-Oriented Risk List
 |Risk Name (value)  | Impact     | Likelihood | Description |
