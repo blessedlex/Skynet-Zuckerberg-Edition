@@ -70,4 +70,4 @@ Delivery Stage
 2. [Research convolutional neural networks (CNNs) and how they are significant to Facebook's AI research](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/issues/6)
 
 ## Presentation Video
-[M1 Video](https://app.vidgrid.com/view/2idVTsYhmNzy/?sr=9yqxWK)
+[M1 Video](https://app.vidgrid.com/view/2idVTsYhmNzy)
