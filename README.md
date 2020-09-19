@@ -35,20 +35,24 @@ In our risk list, we have identified the major sources of risk and what we plan 
 [litreview.md](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/blob/master/litreview.md)
 
 ## Project Methodology
-Based on the articles, we plan on examing and testing the code libraries for data vulnerablities. Look in to court cases involving Facebook's DeepFace.
-Fear of people about Facial Recogination.
-Law Review of Facial Recogniation.
-Test with outside facial recoginations on passports.
-.
+Based on the articles, we plan on examing and testing the code libraries for data vulnerablities. 
+
 Discovery Stage
--Data analysis of their code libraries
--Data collection of Facebook's Policy on Privacy, Data, and Terms
--We will observe and document how the code work and policy used by Fackbook
--Research Convolutioanl Nerual Networks (CNN)
--We will research and document how CNNs work and are used by Facebook
-Implentation Stage
--
+- Data analysis of their code libraries 
+- Data collection of Facebook's Policy on Privacy, Data, and Terms 
+- We will observe and document how the code work and policy used by Facebook 
+- Research Convolutioanl Nerual Networks (CNN) 
+- We will research and document how CNNs work and are used by Facebook 
+
+Implementation Stage
+- Review and test opt-out options for Facebook's facial recognition 
+- Test the auto-tagging freature on Facebook 
+- Continue to document findings in published article on Facebook Facial IA 
+  - Repeat published test on Facebook's AI
+
 Delivery Stage
+- Complie all findings into GitHub repository and files
+- Create a Report and Presentation on our results from test
 
 ## Resources Needed
 |Resource  | Dr. Hale needed? | Investigating Team member | Description |
