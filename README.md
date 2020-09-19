@@ -23,13 +23,13 @@ Below is our proposed project timeline. Our Kanban board can be found here: [Pro
 ## Project-Oriented Risk List
 In our risk list, we have identified the major sources of risk and what we plan to do about them in case they arise.
 
-|Risk Name  | Impact     | Likelihood | Description |
-|-------------------|------------|------------|-------------|
-|Team Member Availability (28) | 7 | 4 | Aligning meeting times around academic and work schedules may deem difficult - plan is to meet each week after weekly check-ins with Dr. Hale until an issue may arise |
-|Communication/Under communication (24) | 8 | 3 | if any requirements are misinterpreted by the project team a gap develops between expectations, requirements and milestones - may need to communicate the same idea many times in different ways before people remember it |
-|Software Availability (27) | 9 | 3 | Not all of the necessary software for analysis may be open source - work around would be to check UNO's available software for students or low cost subscription options|
-|Analysis Complexity (28) | 7 | 4 | The scope of the analysis may be very large for our time frame - focus on AI and facial recognition and its handling specifically instead of all the research of Facebook's AI and data usage|
-| Learning Curves (35) | 7 | 5 | Project team may need to acquire new skills for the project so there's a risk that productivity will be low - try to keep the best member for a certain task doing what they understand best |
+|Risk Name  | Impact     | Likelihood | Description | Mitigation |
+|-------------------|------------|------------|-------------|-------------|
+|Team Member Availability (28) | 7 | 4 | Aligning meeting times around academic and work schedules may deem difficult | Plan is to meet each week after weekly check-ins with Dr. Hale until an issue may arise |
+|Communication/Under communication (24) | 8 | 3 | If any requirements are misinterpreted by the project team a gap develops between expectations, requirements and milestones | May need to communicate the same idea many times in different ways before people remember it |
+|Software Availability (27) | 9 | 3 | Not all of the necessary software for analysis may be open source | Work around would be to check UNO's available software for students or low cost subscription options|
+|Analysis Complexity (28) | 7 | 4 | The scope of the analysis may be very large for our time frame | Focus on AI and facial recognition and its handling specifically instead of all the research of Facebook's AI and data usage|
+| Learning Curves (35) | 7 | 5 | Project team may need to acquire new skills for the project so there's a risk that productivity will be low | Try to keep the best member for a certain task doing what they understand best |
 
 ## Project Methodology
 ## Literature Review
