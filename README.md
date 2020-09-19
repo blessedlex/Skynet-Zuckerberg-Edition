@@ -42,17 +42,17 @@ Discovery Stage
 - Data analysis of their code libraries 
 - Data collection of Facebook's Policy on Privacy, Data, and Terms 
 - We will observe and document how the code work and policy used by Facebook 
-- Research Convolutioanl Nerual Networks (CNN) 
+- Research Convolutional Nerual Networks (CNN) 
 - We will research and document how CNNs work and are used by Facebook 
 
 Implementation Stage
 - Review and test opt-out options for Facebook's facial recognition 
 - Test the auto-tagging freature on Facebook 
-- Continue to document findings in published article on Facebook Facial IA 
+- Continue to document findings in published article on Facebook Facial AI 
   - Repeat published test on Facebook's AI
 
 Delivery Stage
-- Complie all findings into GitHub repository and files
+- Compile all findings into GitHub repository and files
 - Create a Report and Presentation on our results from test
 
 ## Resources Needed
