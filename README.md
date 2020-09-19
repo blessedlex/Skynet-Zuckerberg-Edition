@@ -31,11 +31,10 @@ In our risk list, we have identified the major sources of risk and what we plan 
 |Analysis Complexity (28) | 7 | 4 | The scope of the analysis may be very large for our time frame | Focus on AI and facial recognition and its handling specifically instead of all the research of Facebook's AI and data usage|
 | Learning Curves (35) | 7 | 5 | Project team may need to acquire new skills for the project so there's a risk that productivity will be low | Try to keep the best member for a certain task doing what they understand best |
 
-## Project Methodology
-### Literature Review
+## Literature Review
 [litreview.md](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/blob/master/litreview.md)
 
-### Technical Plan
+## Project Methodology
 Based on the articles, we plan on examing and testing the code libraries for data vulnerablities. Look in to court cases involving Facebook's DeepFace.
 Fear of people about Facial Recogination.
 Law Review of Facial Recogniation.
