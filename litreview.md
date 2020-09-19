@@ -41,3 +41,20 @@ The primary findings of the case study that Facebook violated the law by notifyi
 This means Facebook is going to have to reexamine the policies with user’s personal information with facial recognition. They are going to back into their and make sure they are more open with their users about which information is being stored.
 8. Implications for research
 For research, there are going to be more studies of how tech giants handle information, and they are going to be more transparent in their privacy terms of the information will be used, and how it will be used to benefit the user. There will be more studies about the law side. Law makers have to looks at the negatives of this technology and create laws to keep the user’s safe or lessen the impact.
+
+1. Problem Statement
+The primary problem of the project was testing to see if facial recognition can be used to identify people by through their passport. National Security is a huge subject in the governing bodies of each country. If a technology, can help check people’s identity
+2. Research Questions
+Is facial recognition accurate to be used outside or for border security?
+The reason there is not much research is due to it still being an emerging technology. Each company with facial recognition are trying to improve the technology. There are many uncertainties with technology and how it can affect the privacy of others.
+3. Contribution
+One major contribution was deciding the accuracy. This allows the reader to have greater confidence in these technologies. It was  very surprising to see how many false positives there were. This is one of many fears of misidentifying people, but this only on the passports.
+4. Investigative Approach
+This research was conducted by conduction an experiment. They tested the facial recognition in an outside environment, which resulted in low success rate. By using the facial recognition on pictures, the researchers were able to get a much higher success rate. The claims are strong, since they used more than one facial recognition program.
+5. Lessoned Learned
+They found out by using the facial recognition on pictures, they were able to get a higher success rate. This could have an impact by having a practical implementation of these facial recognitions for passports. It would lead to more development for the cameras that are used outside.
+6. Implications for Practice
+For border security, there would be an increase implementation, but there would be a major shift in policies. Since the research ended in a great result, they have data to back up their claims. Another thing that will change is a new security measure to protect these data.
+7. Implications for research
+The research will advance by doing different test to test different facial recognition systems. Then, the research will continue to test facial recognition in the outside world. Since, there was not much success, this where there will have to advance the technology in.
+
