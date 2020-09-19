@@ -31,10 +31,12 @@ In our risk list, we have identified the major sources of risk and what we plan 
 |Analysis Complexity (28) | 7 | 4 | The scope of the analysis may be very large for our time frame - focus on AI and facial recognition and its handling specifically instead of all the research of Facebook's AI and data usage|
 | Learning Curves (35) | 7 | 5 | Project team may need to acquire new skills for the project so there's a risk that productivity will be low - try to keep the best member for a certain task doing what they understand best |
 
+## Project Methodology
 ## Literature Review
 [litreview.md](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/blob/master/litreview.md)
 
-## Project Methodology
+### Technical Plan
+Based on the articles, we plan on examing and testing the code libraries for data vulnerablities. ....
 
 ## Resources Needed
 |Resource  | Dr. Hale needed? | Investigating Team member | Description |
