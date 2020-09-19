@@ -32,7 +32,8 @@ In our risk list, we have identified the major sources of risk and what we plan 
 | Learning Curves (35) | 7 | 5 | Project team may need to acquire new skills for the project so there's a risk that productivity will be low | Try to keep the best member for a certain task doing what they understand best |
 
 ## Literature Review
-[litreview.md](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/blob/master/litreview.md)
+[LitReview](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/blob/master/litreview.md)
+[Appendix](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/blob/master/appendixes.md)
 
 ## Project Methodology
 Based on the articles, we plan on examing and testing the code libraries for data vulnerablities. 
