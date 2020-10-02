@@ -9,9 +9,9 @@ Training an artificial intelligence to better understand the world through the i
 The main objectives that we've outlined include:
 - Analyzing Facebook's open source facial recognition and AI libraries 
 - Documenting what information or data is extracted from user videos and images
-- Determining if the collection of this data is improper
-
-The merit of accomplishing our project goal and objectives is to go beyond spreading awareness about Facebook's AI research and user policy agreements. We expect to further expose and advance the conversation about what exactly Facebook may be designing in their AI research labs. The end goal may be beneficial to soceity but as we've seen from Facebook's previous history with Cambridge Analytica, is our data truly in the best hands? Furthermore, how is their facial recognition systems utilizing user data behind the scenes?
+- From our findings in research articles, privacy experts have noted that "Facebook had neither obtained users’ opt-in consent for the technology nor explicitly informed them that the company could benefit from scanning their photos." So, from Facebook's collection of user data, facial or otherwise, is the use of facial recognition a violation of people's privacy by not obtaining appropriate user consent?
+  
+The merit of accomplishing our project’s goals and objectives is to provide clear implications for social media use. Specifically, Facebook’s AI research into facial recognition and how its user policy agreements are not being concise about consent to this.
 
 ## Proposed Project Timeline
 Below is our proposed project timeline. Our Kanban board can be found here: [Project Sprint Plan](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/projects/1)
@@ -38,20 +38,45 @@ In our risk list, we have identified the major sources of risk and what we plan 
 ## Project Methodology
 Based on the articles, we plan on examing and testing the code libraries for data vulnerablities. 
 
-Discovery Stage
+### Discovery Stage
 - Data analysis of their code libraries 
 - Data collection of Facebook's Policy on Privacy, Data, and Terms 
 - We will observe and document how the code work and policy used by Facebook 
 - Research Convolutional Nerual Networks (CNN) 
 - We will research and document how CNNs work and are used by Facebook 
 
-Implementation Stage
-- Review and test opt-out options for Facebook's facial recognition 
-- Test the auto-tagging freature on Facebook 
+### Implementation Stage
+From the information in the discovery phase that we synthesized and summarized to discern the potential privacy and data implications, our implementation plan is being conducted in the following ways:
+
+**1. By testing the opt-out option/feature for auto-tagging in photo and videos**
+
+Facebook tells its users that they are in charge of either allowing or not allowing Facebook to auto-tag them in their (the users) uploaded photos and videos. From previous cases and articles, Facebook's technology can be used to remotely identify people by name without their knowledge or consent. This means that end users cannot control the technology. The on/off setting is there but Facebook still scans faces in photos even when their facial recognition setting is turned "OFF". So how does our project team aim to prove this? Below are our process steps:
+  
+  1. Create a new Facebook account or utilize one or multiple of the group members accounts
+    
+  2. Upload multiple photos and/or videos BEFORE manually turning off the facial recognition option for users
+    
+  3. Test and see if the auto-tagging feature is present once photos/videos are fully uploaded
+    
+  4. Discover what information is tagged in the photos/videos and conclude if it is accurate
+    
+  5. Compare the verbiage from the user data and privacy policy agreements to the data/information collected from the tagging feature
+    
+  6. Turn off the auto-tagging feature manually through Facebook's user settings
+    
+  7. Upload new photos/videos AND the same photos/videos from step 2
+    
+  8. After the photos are fully uploaded, compare the auto-tagged photos to any differences in the opted-out photos/videos; this step will show us if the photos that were uploaded AFTER the opt-out option is selected, are still being recognized and marked with tags that the user can select from instead of being auto-tagged after upload.
+    
+  9. Conclude from our testing if the opt-out feature is truly "OFF" when a user decides to opt-out from Facebook's facial recognition usage/auto-tagging. To discern this we will be able to infer from the tagging options whether the tags presented are the same from the tags that were presented for auto-tagg: meaning, if the tags are the same for opt-out tags and auto-tags then the software is still scanning regardless if the opt-out feature is chosen or not.
+    
+After conducting these series of events, we will be able to conclude whether or not Facebook claims to allow its users to keep the auto-tagging feature turned "OFF" or if behind the scenes they may still be scanning every photo and video through their face-matching photo-tagging software. 
+
+  
 - Continue to document findings in published article on Facebook Facial AI 
   - Repeat published test on Facebook's AI
 
-Delivery Stage
+### Delivery Stage
 - Compile all findings into GitHub repository and files
 - Create a Report and Presentation on our results from test
 
