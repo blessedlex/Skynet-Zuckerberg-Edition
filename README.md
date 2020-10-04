@@ -39,24 +39,35 @@ In our risk list, we have identified the major sources of risk and what we plan 
 Based on the articles, we plan on examing and testing the code libraries for data vulnerablities. 
 
 Discovery Stage
-- Data analysis of their code libraries 
+- Data analysis of their code libraries to determine what data is produced
+  - Follow data flow to see what DeepMask/Sharpmask and Multipathnet return from analysis
 - Data collection of Facebook's Policy on Privacy, Data, and Terms 
-- We will observe and document how the code work and policy used by Facebook 
-- Research Convolutional Nerual Networks (CNN) 
-- We will research and document how CNNs work and are used by Facebook 
+  - Determine what data Facebook is specifically allowed to collect
+- We will observe and document how the code work and policy used by Facebook
+- Research Convolutional Nerual Networks (CNN)
+  - Determine how Facebook uses CNN's including what training samples are used, if possible
+- Research how to use the Postman Interceptor extension
 
 Implementation Stage
-- Review and test opt-out options for Facebook's facial recognition 
-- Test the auto-tagging freature on Facebook 
-- Continue to document findings in published article on Facebook Facial AI 
+- Review and test opt-out options for Facebook's facial recognition
+- Test the auto-tagging feature on Facebook
+  - Manually create accounts, disable auto-tagging, and determine if posted photos are still associated
+- Continue to document findings in published article on Facebook Facial Recognition AI
   - Repeat published test on Facebook's AI
+- Use the Postman Interceptor extension to view HTTP requests
+  - Determine if any data outside of Facebook's policies is transmitted
+
 
 Delivery Stage
 - Compile all findings into GitHub repository and files
 - Create a Report and Presentation on our results from test
+  - Show what data is allowed per Facebook's policy and legal cases
+  - Explain the data that DeepMask, SharpMask, and Multipathnet collect from images
+  - Show the findings of HTTP captures in relation to what is permitted to be collected
+  - Discuss the findings of auto-tagging on Facebook
 
 ## Resources Needed
-|Resource  | Dr. Hale needed? | Investigating Team member | Description |
+| Resource  | Dr. Hale needed? | Investigating Team member | Description |
 |-------------------|---------|---------------------------|-------------|
 |Facebook policies | No | Caroline | Digging in to the policies to see how the data is used within Facebook  |
 |Facebook Open Source Library | No | Entire Team | Digging into the library to exam how the data is used and transferred in to Facebook storage. Examples: DeepFace|
