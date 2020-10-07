@@ -9,7 +9,7 @@ Training an artificial intelligence to better understand the world through the i
 The main objectives that we've outlined include:
 - Analyzing Facebook's open source facial recognition and AI libraries 
 - Documenting what information or data is extracted from user videos and images
-- From our findings in research articles, privacy experts have noted that "Facebook had neither obtained users’ opt-in consent for the technology nor explicitly informed them that the company could benefit from scanning their photos." So, from Facebook's collection of user data, facial or otherwise, is the use of facial recognition a violation of people's privacy by not obtaining appropriate user consent?
+- Determine from the collection of user data, facial or otherwise, is the use of facial recognition a violation of people's privacy by not obtaining appropriate user consent?
   
 The merit of accomplishing our project’s goals and objectives is to provide clear implications for social media use. Specifically, Facebook’s AI research into facial recognition and how its user policy agreements are not being concise about consent to this.
 
