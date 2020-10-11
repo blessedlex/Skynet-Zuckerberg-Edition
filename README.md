@@ -75,7 +75,7 @@ After conducting these series of events, we will be able to conclude whether or 
 
 **2. By observing the packets transmitted by Facebook from their user interface**
 
-With the understanding of what information Facebook is allowed to process and store, the next goal is to ensure Facebook is following the standards set in place by their own policies, such as their privacy policy, in regards to image data.
+With the understanding of what information Facebook is allowed to process and store, the next goal is to ensure Facebook is following the standards set in place by their own policies, such as their privacy policy, in regard to image data.
 However, before any interpretation can be made, the data must first be collected.
 In order to collect the traffic Facebook's web client transmits, we will be using Wireshark to capture raw packets and Postman to follow and organize HTTP/HTTPS traffic.
 
