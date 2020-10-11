@@ -73,9 +73,27 @@ Facebook tells its users that they are in charge of either allowing or not allow
     
 After conducting these series of events, we will be able to conclude whether or not Facebook claims to allow its users to keep the auto-tagging feature turned "OFF" or if behind the scenes they may still be scanning every photo and video through their face-matching photo-tagging software. 
 
+**2. By observing the packets transmitted by Facebook from their user interface**
+
+With the understanding of what information Facebook is allowed to process and store, the next goal is to ensure Facebook is following the standards set in place by their own policies, such as their privacy policy, in regard to image data.
+However, before any interpretation can be made, the data must first be collected.
+In order to collect the traffic Facebook's web client transmits, we will be using Wireshark to capture raw packets and Postman to follow and organize HTTP/HTTPS traffic.
+
+To capture the transmitted packets, we will use the following procedure in Wireshark:
+
+  1. Begin capturing packets in Wireshark. This will also capture large amounts of superfluous data, but this can be filtered out.
   
-- Continue to document findings in published article on Facebook Facial AI 
-  - Repeat published test on Facebook's AI
+  2. Login to Facebook using a new account. This account should not have any associations to previous data (such as using personal accounts) as to avoid any distortion of what information Facebook gathers.
+  
+  3. Upload a photo to Facebook.
+  
+    a. Change the account's profile picture to a different photo.
+    
+    b. Post a photo to the account's feed without text.
+    
+    c. Post a photo to the account's feed with relevant text, such as a caption.
+
+  4. Stop capturing packets in Wireshark, and then gather the relevant traffic and export to a capture file. This file will later be searched for any traffic which contains data that is not explicitly permitted according to our findings from policy and legal research.
 
 ### Delivery Stage
 - Compile all findings into GitHub repository and files
