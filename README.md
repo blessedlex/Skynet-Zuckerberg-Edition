@@ -44,12 +44,15 @@ Based on the articles, we plan on examing and testing the code libraries for dat
 We plan to comb through the deepmask and multipath repositositories. While looking through these repositories, we will be taking short notes over what each file does. This allows us to be more focused on the process and less on the code. Most efforts of documentation will be for the data that is obtained and how it will be obtained. We plan to take notes on the data structure to see how the data is represented. Through this we can analyze the empty shell and see the type of data that is being stored. Also, we are taking notes on the behavior of the AI. By understanding the behavior of the AI, we can see what information is needed to complete its job. This will be done by seeing what functions are used and training that is involved.
 
 **- Data collection of Facebook's Policy on Privacy, Data, and Terms...** 
+
 For researching the Facebook policies, we plan on focusing the policies that surround Biometric data. This involves from how the data is being handled, and whether
 Facebook can record the data without consent. With focusing on the how the data is being handled, this will allow us to determine whether Facebook is taking the 
 necessary steps to keep the data out of unsecure hands.  Also, the for the permission to take biometric data, we would want to see if Facebook must notify the 
 users if their data is recorded. Also, we want to know if we have the option to revoke the permission of Facebook recording the data. Finally, the last thing 
 we would like to know, if we delete our accounts will the biometric data be deleted.
+
 **- By observing and documenting how the code works and the policies used by Facebook...** 
+
 For this part we plan to compare the code to the policies we researched. We want to see if Facebook has violated its security policies for biometric data. 
 Through comparing the results, we can also judge whether there needs to be a change in certain policies that do not cover enough, or we can suggest
 new policies to help cover certain grey areas if they exist.
