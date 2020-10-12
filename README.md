@@ -45,7 +45,7 @@ We plan to comb through the deepmask and multipath repositositories. While looki
 For researching the Facebook policies, we plan on focusing the policies that surround Biometric data. This involves from how the data is being handled, and whether
 Facebook can record the data without consent. With focusing on the how the data is being handled, this will allow us to determine whether Facebook is taking the 
 necessary steps to keep the data out of unsecure hands.  Also, the for the permission to take biometric data, we would want to see if Facebook must notify the 
-users if their data is recorded. Also, we want to know if we have the option to revoke the permission of Facebookk recording the data. Finally, the last thing 
+users if their data is recorded. Also, we want to know if we have the option to revoke the permission of Facebook recording the data. Finally, the last thing 
 we would like to know, if we delete our accounts will the biometric data be deleted.
 - We will observe and document how the code work and policy used by Facebook 
 For this part we plan to compare the code to the policies we researched. We want to see if Facebook has violated its security policies for biometric data. 
