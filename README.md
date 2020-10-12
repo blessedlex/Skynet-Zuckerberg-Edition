@@ -39,12 +39,17 @@ In our risk list, we have identified the major sources of risk and what we plan 
 Based on the articles, we plan on examing and testing the code libraries for data vulnerablities. 
 
 ### Discovery Stage
-- Data analysis of their code libraries<br> 
+**- To analyze the code libraries...**
+
 We plan to comb through the deepmask and multipath repositositories. While looking through these repositories, we will be taking short notes over what each file does. This allows us to be more focused on the process and less on the code. Most efforts of documentation will be for the data that is obtained and how it will be obtained. We plan to take notes on the data structure to see how the data is represented. Through this we can analyze the empty shell and see the type of data that is being stored. Also, we are taking notes on the behavior of the AI. By understanding the behavior of the AI, we can see what information is needed to complete its job. This will be done by seeing what functions are used and training that is involved.
-- Data collection of Facebook's Policy on Privacy, Data, and Terms 
-- We will observe and document how the code work and policy used by Facebook 
-- Research Convolutional Nerual Networks (CNN) 
-- We will research and document how CNNs work and are used by Facebook 
+
+**- Data collection of Facebook's Policy on Privacy, Data, and Terms...**
+
+**- By observing and documenting how the code works and the policies used by Facebook...**
+
+**- By researching what Convolutional Neural Networks (CNNs) are and how they are being used to accomplish Facebook's tasks...**
+
+We can further deduce what exactly Facebook is using user's facial recognition data for. From the information we've gathered, a convolutional neural network is a type of deep learning algorithm. It is a kind of artificial neural network (computing systems that are based on a collection of connected units or nodes called artificial neurons) that employs convolution methodology to extract the features from the input data to increase the number of features. Computer vision neural network deep learning models are used to interpret the content of photos users have posted and decide which to surface in the "on this day" feature. So the models underlying the feature have to interpret images and develop a semantic understanding of what's happening. It does this in part by identifying people and objects in images and interpreting the context around them. The models were trained on more than a billion photos that have been uploaded to Facebook over the years, and they have to score in real time millions of new images uploaded each day. It all comes back to keeping users engaged on the social network. Deep learning has played an important role in Facebook's ability to do so, filling a crucial need in the company's business model. 
 
 ### Implementation Stage
 From the information in the discovery phase that we synthesized and summarized to discern the potential privacy and data implications, our implementation plan is being conducted in the following ways:
@@ -96,8 +101,11 @@ To capture the transmitted packets, we will use the following procedure in Wires
   4. Stop capturing packets in Wireshark, and then gather the relevant traffic and export to a capture file. This file will later be searched for any traffic which contains data that is not explicitly permitted according to our findings from policy and legal research.
 
 ### Delivery Stage
-- Compile all findings into GitHub repository and files
-- Create a Report and Presentation on our results from test
+**- We will compile all of our findings into our Github's project readme document and files**
+
+**- We will conclude from our discoveries if the social media usage implications are made succinct in Facebook's policies**
+
+**- We will create a report and presentation on our results from our testing outlined above**
 
 ## Resources Needed
 |Resource  | Dr. Hale needed? | Investigating Team member | Description |
