@@ -36,7 +36,7 @@ In our risk list, we have identified the major sources of risk and what we plan 
 [Appendix](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/blob/master/appendixes.md)
 
 ## Project Methodology
-Based on the articles, we plan on examing and testing the code libraries for data vulnerablities. 
+Based on the articles, we plan on examining and testing the code libraries for data vulnerablities. 
 
 ### Discovery Stage
 **- To analyze the code libraries...**
@@ -45,15 +45,15 @@ We plan to comb through the deepmask and multipath repositositories. While looki
 
 **- Data collection of Facebook's Policy on Privacy, Data, and Terms...** 
 
-For researching the Facebook policies, we plan on focusing the policies that surround Biometric data. This involves from how the data is being handled, and whether
-Facebook can record the data without consent. With focusing on the how the data is being handled, this will allow us to determine whether Facebook is taking the 
-necessary steps to keep the data out of unsecure hands.  Also, the for the permission to take biometric data, we would want to see if Facebook must notify the 
-users if their data is recorded. Also, we want to know if we have the option to revoke the permission of Facebook recording the data. Finally, the last thing 
+For reviewing the Facebook policies, we plan on focusing on the policies that surround Biometric data. This includes how the data is being handled and whether
+Facebook is recording the data without consent. With focusing on the how the data is being handled, this will allow us to determine whether Facebook is taking the 
+necessary steps to keep the data out of unsecure hands.  Also, for the permission to take biometric data, we would want to see if Facebook notifying the 
+users if their data is recorded. We want to know if we have the option to revoke the permission of Facebook recording the data. Finally, the last thing 
 we would like to know, if we delete our accounts will the biometric data be deleted.
 
 **- By observing and documenting how the code works and the policies used by Facebook...** 
 
-For this part we plan to compare the code to the policies we researched. We want to see if Facebook has violated its security policies for biometric data. 
+For this part we plan to compare the code to the policies we reviewed. We want to see if Facebook has violated its own security policies for biometric data. 
 Through comparing the results, we can also judge whether there needs to be a change in certain policies that do not cover enough, or we can suggest
 new policies to help cover certain grey areas if they exist.
 
