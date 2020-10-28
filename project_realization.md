@@ -1,6 +1,7 @@
 # Progress Report (10.28.2020)
 ## Overview
-(insert brief overview of efforts made)
+For the duration of this semester, our team has utilized a private Slack channel for communication and the GitHub issue tracker and Projects section to create a sprint plan. This was our initial effort to organize and plan for our research, testing, and establishing the neccessary work environments.
+
 
 ## Outcomes
 (brief overview of outcomes - what did you achieve?)
