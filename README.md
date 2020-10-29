@@ -24,6 +24,8 @@ Below is a table including our work environments setup and instructions:
 
 
 ## Issue Tracking and Planning
+[Issues Tracking](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/issues)<br>
+[Kanban Board](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/projects/1)
 
 ## Presentation Video
 
