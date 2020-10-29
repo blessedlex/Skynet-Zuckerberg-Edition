@@ -6,12 +6,22 @@
 # Milestone 2: Prototype Deliverable 
 
 ## Environment Setup
+Below is a table including our work environments setup and instructions:
+
+|Tooling/Environment  | Installation Requirements | Description/Usage | Configuration |
+|---------------------|-------------------------------------|-------------------|--------------------|
+|Kali Linux Virtual Machine| 1. At least 20 GB of disk space. <br> 2. At least 1 GB of RAM (preferably 2) for i386 and amd64 architectures. <br> 3. VirtualBox or VMware (or alternative virtualization software) | Creating a virtual machine environment to test/run our data sets with the Facebook algorithms | [How to Install Kali Linux on VirtualBox](https://phoenixnap.com/kb/how-to-install-kali-linux-on-virtualbox) |
+|Postman | <b>macOS</b> <br> The minimum macOS version supported is macOS 10.10 (Yosemite). <br> <b>Windows</b> <br>Windows 7 and later are supported, older operating systems are not supported. <br> Windows for ARM devices is possible by using the ia32 binary.<br> <b>Linux</b> <br> Distributions supported on Postman* <br> - Ubuntu 12.04 and newer <br> - Fedora 21 <br> - Debian 8 | Postman will allow us to do HTTP method captures | [How to Install Postman from Terminal](https://support.postman.com/hc/en-us/articles/360039876493-How-to-Install-Postman-from-Terminal-) |
+|Facebook Open Source Coding Libraries | <b>DeepMask</b> <br> - MAC OS X or Linux <br>- NVIDIA GPU with compute capability 3.5+ <br>- Torch with packages: COCO API, image, tds, cjson, nnx, optim, inn, cutorch, cunn, cudnn <br> <b>MultiPathNet</b><br> - Linux <br>- NVIDIA GPU with compute capability 3.5+ |<b>DeepMask</b><br>DeepMask is applied densely to an image and generates a set of object masks, each with a corresponding objectness score<br><b>MultiPathNet</b><br>MultiPathNet identifies what the object masks are from DeepMask's generated data | [Facebook's DeepMask](https://github.com/facebookresearch/deepmask) <br>[Facebook's MultiPathNet](https://github.com/facebookresearch/multipathnet) |
+|Open Source Image Libraries | None | To create our own test model for training the DeepMask and MultiPathNet algorithms | None |
+|Wireshark | [Wireshark Installation Requirements](https://www.wireshark.org/docs/wsug_html_chunked/ChIntroPlatforms.html) | Our usage of Wireshark is intended to capture the passive network traffic when uploading an image to Facebook | After downloading Wireshark, do the following: <br> 1. Select 'Start capturing packets' <br> 2. Go to www.Facebook.com, log into an account, and upload a photo <br> 3. Monitor the Wireshark capture info window <br> 4. Look for HTTP traffic <br> 5. Infer from the capture what information is being sent/taken from Facebook |
+|Facebook User Interface | Must have an Internet connection | Used to test/observe the behavior of the Facebook auto-tagging facial recognition feature | While logged into Facebook, <br> - Go to 'Settings' and then 'Facial Recognition'. <br>- Choose whether to turn the feature 'ON' or 'OFF' |
 
 ## Project Realization
-
-## Research Paper Outline
+[Project_Realization.md](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/blob/master/Project%20Realization)
 
 ## Diagrams
+
 
 ## Issue Tracking and Planning
 
