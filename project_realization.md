@@ -17,6 +17,8 @@ We have took on tasks in groups of two, to help compare observations, testing, a
 
 working test environment after numerous attempts to get the setup working. The challenges presented included working through multiple interdependencies that all correlated to successful test conditions.
 
+*<b> Outcome 5</b> To collect the input infromation provided by the user to Facebook when uploading images. Here is the HTTP request captured by Postman app on a Facebook upload. [Upload Capture](https://www.getpostman.com/collections/8cece61b74a2db5e8aaf).
+
 ## Hinderances
 Our challenges included miscommunication in regard to how we wanted to obtain the implications for privacy. We believed our goals would be best tackled by analyzing the code libraries to see what inputs Facebook was taking and testing by observing the UI and packet captures to review the accuracy of the data information. Other challenges we face included multiple attempts to get a working test environment, combing through a Postman capture to retrieve the HTTP method capture details, having our Facebook test accounts be deactivated or banned. For work environment, we had to find the correct versions for Torch librady, CUDA toolkit, and Ubuntu operating system that work together. This also includes modifying source code before building the environment to circumvent issues with different dependencies.
 
