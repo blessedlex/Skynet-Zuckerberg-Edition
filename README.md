@@ -32,7 +32,26 @@ Below is a table including our work environments setup and instructions:
 ## Diagrams
 Below are our diagrams which show the high-level concepts and detailed flows of our processes:
 
+![Testing Overview](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/blob/master/high%20level%20test%20process.png)
 
+This diagram provides a high-level overview of how we will conduct our testing for the DeepMask and MultiPathNet algorithms.
+Testing will begin with creating sets for training algorithms in order to test the accuracy of a network based on its training sample size.
+These tests will also include a set of images as input for the trained networks.
+The output of these images will be compared to a control network which has been trained with the standard amount of samples.
+
+![DeepMask Evaluation](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/blob/master/DeepMask%20evaluation.png)
+
+This diagram displays the image analysis procedure used for evaluating the outputs of a DeepMask network.
+This procedure produces a 'pass' or 'fail' result depending on how effective the mask was.
+The network produces a mask image and a confidence value.
+We will calculate the difference between an output and its corresponding control output.
+A case passes when it is within the threshold values used for both confidence and difference.
+
+![MultiPathNet Evaluation](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/blob/master/MultiPathNet%20evaluation.png)
+
+This diagram shows the overview of evaluating a MultiPathNet output.
+Our image is passed into a network, and the output is then determined to be a true positive, false positive, true negative, or false negative.
+These results are collected, and the totals for each category are used to calculate the F1 score.
 
 ## Issue Tracking and Planning
 [Issues Tracking](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/issues)<br>
