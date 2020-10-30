@@ -22,7 +22,7 @@ Below is a table including our work environments setup and instructions:
 ## Diagrams
 Below are our diagrams which show the high-level concepts and detailed flows of our processes:
 
-![High-level-Flowchart](https://user-images.githubusercontent.com/28307295/97746992-40996a00-1ab9-11eb-9abc-47e9b7d97e88.png)
+The diagram below is a data flow detailing the deep learning process for our code algorithms.
 ![Data-flow-deep-learning](https://user-images.githubusercontent.com/28307295/97747052-5444d080-1ab9-11eb-92be-5784fbf983e7.png)
 
 ## Issue Tracking and Planning
