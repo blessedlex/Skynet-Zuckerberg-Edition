@@ -5,7 +5,7 @@
 
 # Milestone 2: Prototype Deliverable 
 ## Testing Procedure
-### Setup
+### Postman Setup
 #### Web Browser
 1. Confirm that the Interceptor is connected to the Postman app.
 2. In Chrome extension, select Interceptor in the drop-down turn on the 'capture request'.
