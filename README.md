@@ -4,16 +4,40 @@
 ### University of Nebraska at Omaha
 
 # Milestone 2: Prototype Deliverable 
+## Testing Procedure
+### Postman 
+#### Setup
+##### 1. Web Browser
+1. Confirm that the Interceptor is connected to the Postman app.
+2. In Chrome extension, select Interceptor in the drop-down turn on the 'capture request'.
+##### 2. Postman Application
+1. Select the satellite icon, under "Requests" change 'Source' to Interceptor and turn on 'Capture Requests'.<br>
+#### Capturing HTTP requests
+1. In the captured requests, filter for "upload" for the upload request in the History tab on the left side of the Postman app.
+2. Select request to examine the information passed in the request view. Tab through the to the Params, Headers, and Body for information passed.
 
 ## Environment Setup
+Below is a table including our work environments setup and instructions:
+
+|Tooling/Environment  | Installation Requirements | Description/Usage | Configuration |
+|---------------------|-------------------------------------|-------------------|--------------------|
+|Wireshark | <b>Windows</b> <br>The minimum Windows version supported is Windows 10, 8.1, Server 2019, Server 2016, Server 2012 R2, and Server 2012. The older operating systems are not supported. <br><b>macOS</b><br> The minimum macOS version supported is macOS 10.12 and later.<br><b>Linux</b><br>>- Debian GNU/Linux<br>- FreeBSD<br>- Red Hat Enterprise Linux / CentOS / Fedora | Our usage of Wireshark is intended to capture the passive network traffic when uploading an image to Facebook | [WireShark Configuration](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/blob/milestone-2-setup/Configuration%20for%20WireShark.md) |
+|Postman | <b>macOS</b> <br> The minimum macOS version supported is macOS 10.10 (Yosemite). <br> <b>Windows</b> <br>Windows 7 and later are supported, older operating systems are not supported. <br> Windows for ARM devices is possible by using the ia32 binary.<br> <b>Linux</b> <br> Distributions supported on Postman* <br> - Ubuntu 12.04 and newer <br> - Fedora 21 <br> - Debian 8 <br><b>Interceptor</b> Interceptor extension version v0.2.26 or later.| Postman will allow us to do HTTP method captures | [Postman Configuration for Interceptor](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/blob/milestone-2-setup/Postman%20Configuration.md) |
+|Facebook Open Source Algorithms | <b>DeepMask</b> <br> - MAC OS X or Linux <br>- NVIDIA GPU with compute capability 3.5+ <br>- Torch with packages: COCO API, image, tds, cjson, nnx, optim, inn, cutorch, cunn, cudnn <br> <b>MultiPathNet</b><br> - Linux <br>- NVIDIA GPU with compute capability 3.5+ |<b>DeepMask</b><br>DeepMask is applied densely to an image and generates a set of object masks, each with a corresponding objectness score<br><b>MultiPathNet</b><br>MultiPathNet identifies what the object masks are from DeepMask's generated data | [Facebook's DeepMask](https://github.com/facebookresearch/deepmask) <br>[Facebook's MultiPathNet](https://github.com/facebookresearch/multipathnet) |
+|Unsplash Image Library | None | For testing the trained DeepMask and MultiPath networks | None |
 
 ## Project Realization
-
-## Research Paper Outline
+[Project_Realization.md](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/blob/master/Project%20Realization)
 
 ## Diagrams
+Below are our diagrams which show the high-level concepts and detailed flows of our processes:
+
+The diagram below is a data flow detailing the deep learning process for our code algorithms.
+![Data-flow-deep-learning](https://user-images.githubusercontent.com/28307295/97747052-5444d080-1ab9-11eb-92be-5784fbf983e7.png)
 
 ## Issue Tracking and Planning
+[Issues Tracking](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/issues)<br>
+[Kanban Board](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/projects/1)
 
 ## Presentation Video
 
@@ -25,7 +49,7 @@
 
 
 
-
+# Milestone 1
 
 ## Executive Project Summary
 Training an artificial intelligence to better understand the world through the images that it sees is clearly of interest to Facebook’s overall business model. "Yann LeCun (director of FAIR "Facebook AI Research") says that he's confident Facebook's facial recognition is the best in the world, and that it's a key difference between Facebook and academic research institutions. Now, DeepFace is driving force behind Facebook's automatic photo tagging" (Gershgorn). Artificial intelligence-based or AI-based systems like robots and assistants are becoming more and more prominent as the digital landscape continues to expand. As artificial intelligence frameworks are additionally incorporated into crucial parts of society such as mainstream social media applications, any and/or all software applications utilizing an AI-based system such a facial recognition, speaks to the rising curiousity of data privacy with the possibility of affecting the personal security of end users. Facebook specifically has been increasing their footprint in this area. From complex AI algorithm's to extracting data from our images to utilizing artificial neural networks to auto-tag people in photos, Facebook's dedicated engineers intend to create the artificial intelligence of the future. Our goal is to test and analyze Facebook's open source facial recognition libraries to determine if user information is being mishandled based on how it is being collected. Distinctively, calling attention to the particular use of their facial recognition systems and the data collected from it. 
