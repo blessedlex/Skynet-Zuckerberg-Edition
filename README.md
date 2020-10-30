@@ -4,6 +4,7 @@
 ### University of Nebraska at Omaha
 
 # Milestone 2: Prototype Deliverable 
+## Testing Procedure
 
 ## Environment Setup
 Below is a table including our work environments setup and instructions:
