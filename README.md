@@ -27,7 +27,7 @@ Below is a table including our work environments setup and instructions:
 |Unsplash Image Library | None | For testing the trained DeepMask and MultiPath networks | None |
 
 ## Project Realization
-[Project_Realization.md](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/blob/master/Project%20Realization)
+[Project_Realization.md](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/blob/master/project_realization.md)
 
 ## Diagrams
 Below are our diagrams which show the high-level concepts and detailed flows of our processes:
