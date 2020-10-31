@@ -2,8 +2,8 @@
 
 ## Feature List
 ### Resources
-![DeepMask](https://towardsdatascience.com/review-deepmask-instance-segmentation-30327a072339) <br>
-![MultiPathNet](https://arxiv.org/abs/1604.02135)
+[DeepMask](https://towardsdatascience.com/review-deepmask-instance-segmentation-30327a072339) <br>
+[MultiPathNet](https://arxiv.org/abs/1604.02135)
 
 ### MultiPathNet
 1. Object Proposals: These are the objects that are originated (Tsang 3).
