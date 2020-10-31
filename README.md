@@ -7,7 +7,7 @@
 ## Testing Procedure
 ### Facebook Testing Procedure Documentation
 [Facebook UI Test Documentation](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/issues/18)<br>
-[Facebook Auto-Tagging Testing](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/wiki/Facebook-Auto-tagging-Testing)
+[Facebook Auto-Tagging Testing](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/wiki/Facebook-Auto-tagging-Testing)<br>
 [Postman Testing Procedure](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/blob/master/Postman%20Testing%20Procedure.md)
 
 ## Environment Setup
