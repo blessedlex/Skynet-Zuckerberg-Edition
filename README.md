@@ -56,7 +56,7 @@ Additional Info: ![DeepMask and MultiPathNet](https://github.com/blessedlex/Skyn
 [Kanban Board](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/projects/1)
 
 ## Presentation Video
-
+[Milestone 2 Presentation](https://app.vidgrid.com/view/eCWqjpIdm0VD)
 
 
 
