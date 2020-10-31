@@ -1,9 +1,9 @@
 ![Data-flow-deep-learning](https://user-images.githubusercontent.com/28307295/97768872-4bbdbb80-1af4-11eb-89d1-7cac92275a2e.png)
 
 ## Feature List
-Resources
-[Reference Link](Deepmask:https://towardsdatascience.com/review-deepmask-instance-segmentation-30327a072339)
-[Reference Link](MultiPathNet: https://arxiv.org/abs/1604.02135)
+### Resources
+![DeepMask](https://towardsdatascience.com/review-deepmask-instance-segmentation-30327a072339) <br>
+![MultiPathNet](https://arxiv.org/abs/1604.02135)
 
 ### MultiPathNet
 1. Object Proposals: These are the objects that are originated
