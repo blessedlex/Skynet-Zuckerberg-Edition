@@ -5,6 +5,10 @@
 
 # Milestone 2: Prototype Deliverable 
 ## Testing Procedure
+### Facebook Testing Procedure Documentation
+[Facebook UI Test Documentation](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/issues/18)<br>
+[Facebook Auto-Tagging Testing](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/wiki/Facebook-Auto-tagging-Testing)
+
 ### Postman 
 #### Setup
 ##### 1. Web Browser
