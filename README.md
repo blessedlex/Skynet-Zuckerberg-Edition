@@ -8,17 +8,7 @@
 ### Facebook Testing Procedure Documentation
 [Facebook UI Test Documentation](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/issues/18)<br>
 [Facebook Auto-Tagging Testing](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/wiki/Facebook-Auto-tagging-Testing)
-
-### Postman 
-#### Setup
-##### 1. Web Browser
-1. Confirm that the Interceptor is connected to the Postman app.
-2. In Chrome extension, select Interceptor in the drop-down turn on the 'capture request'.
-##### 2. Postman Application
-1. Select the satellite icon, under "Requests" change 'Source' to Interceptor and turn on 'Capture Requests'.<br>
-#### Capturing HTTP requests
-1. In the captured requests, filter for "upload" for the upload request in the History tab on the left side of the Postman app.
-2. Select request to examine the information passed in the request view. Tab through the to the Params, Headers, and Body for information passed.
+[Postman Testing Procedure](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/blob/master/Postman%20Testing%20Procedure.md)
 
 ## Environment Setup
 Below is a table including our work environments setup and instructions:
