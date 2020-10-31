@@ -8,3 +8,6 @@
 ## Capturing HTTP requests
 1. In the captured requests, filter for "upload" for the upload request in the History tab on the left side of the Postman app.
 2. Select request to examine the information passed in the request view. Tab through the to the Params, Headers, and Body for information passed.
+
+Based on: [Postman Intercept](https://learning.postman.com/docs/sending-requests/capturing-request-data/interceptor/)
+Citation: Postman. “Using Postman Interceptor.” Postman Learning Center, learning.postman.com/docs/sending-requests/capturing-request-data/interceptor/. 
