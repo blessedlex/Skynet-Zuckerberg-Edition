@@ -1,4 +1,5 @@
 ![Data-flow-deep-learning](https://user-images.githubusercontent.com/28307295/97768872-4bbdbb80-1af4-11eb-89d1-7cac92275a2e.png)
+Source: [https://www.researchgate.net/figure/Data-flow-implemented-in-typical-deep-learning-projects-Boxes-represent-software_fig1_319643168](https://www.researchgate.net/figure/Data-flow-implemented-in-typical-deep-learning-projects-Boxes-represent-software_fig1_319643168)
 
 ## Feature List
 ### Resources
