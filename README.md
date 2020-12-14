@@ -3,6 +3,20 @@
 ### CYBR 4580-8950 IA Capstone Project Fall 2020
 ### University of Nebraska at Omaha
 
+
+# Milestone 3: Final Project Milestone 
+## Project Realization Progress Report
+## Final Report: Packaging and Release
+## Presentation
+(Milestone 3 Presentation)[]
+
+
+
+
+
+
+
+
 # Milestone 2: Prototype Deliverable 
 ## Testing Procedure
 ### Facebook Testing Procedure Documentation
