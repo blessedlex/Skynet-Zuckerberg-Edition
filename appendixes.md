@@ -6,3 +6,4 @@ Pretzel, A. (n.d.). Using biometric facial recognition for verification and iden
 
 Gershgorn, Dave. “Inside Facebook's Artificial Intelligence Lab.” Popular Science, 22 Sept. 2015, www.popsci.com/facebook-ai/.
  
+Postman. “Using Postman Interceptor.” Postman Learning Center, learning.postman.com/docs/sending-requests/capturing-request-data/interceptor/.
