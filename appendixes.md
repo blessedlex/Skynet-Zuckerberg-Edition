@@ -7,3 +7,8 @@ Pretzel, A. (n.d.). Using biometric facial recognition for verification and iden
 Gershgorn, Dave. “Inside Facebook's Artificial Intelligence Lab.” Popular Science, 22 Sept. 2015, www.popsci.com/facebook-ai/.
  
 Postman. “Using Postman Interceptor.” Postman Learning Center, learning.postman.com/docs/sending-requests/capturing-request-data/interceptor/.
+
+Tsang, Sik-Ho. “Review: DeepMask (Instance Segmentation).” Medium, Towards Data Science, 19 Dec. 2018, towardsdatascience.com/review-deepmask-instance-segmentation-30327a072339.
+
+Zagoruyko, Sergey, et al. “A MultiPath Network for Object Detection.” ArXiv.org, Cornell University, 8 Aug. 2016, arxiv.org/abs/1604.02135.
+
