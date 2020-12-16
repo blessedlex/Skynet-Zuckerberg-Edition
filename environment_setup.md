@@ -27,14 +27,12 @@ cd ~/torch; bash install-deps
 ```
 
 Then, open `pkg/torch/lib/TH/THAllocator.c` with an editor of your choice, and remove the following code.
-
 At line 108, remove:
 ```
 if (size == 0) {
   return NULL;
 }
 ```
-
 At line 339, remove:
 ```
 if (data == NULL)
@@ -42,19 +40,14 @@ if (data == NULL)
 ```
 
 After these changes have been made, run the following command to install torch:
-
 ```
 TORCH_LUA_VERSION=LUA52 ./install.sh
 ```
-
 If the installation fails due to an error with this message:
-
 ```
 ...error: more than one operator "!=" matches these operands:...
 ```
-
 Run the following commands, then rerun the installation script.
-
 ```
 ./clean.sh
 export TORCH_NVCC_FLAGS="-D__CUDA_NO_HALF_OPERATORS__"
