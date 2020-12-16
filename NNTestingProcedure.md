@@ -36,12 +36,12 @@ This will help us determine how much training data is needed for each algorithm 
        - Use this command to train the model: train_nGPU=1 batchSize=13 ./scripts/train_multipathnet_coco.sh
    - We will be using a testing script provided by the MultiPathNet library. We will use 5,000 pictures for the test size.
      - Use this command to test the model: U=1 test_nsamples=5000 ./scripts/eval_coco.sh
- 2. Once the MultiPath network has been trained and tested, we will randomly choose 25 images as a sanity check.
+2. Once the MultiPath network has been trained and tested, we will randomly choose 25 images as a sanity check.
    - Identify whether the picture is labeled, if labeled does it match the picture
    - Record the results of the sanity check
- 3. After the sanity check, we record the data for each model.
+3. After the sanity check, we record the data for each model.
    - For each model, there are different thresholds.  For each model, recall the average precision and recall for each thresholds. Below are the thresholds.
-     - 	0.50
-     -  0.75
-     -  .50:0.95
+     - 0.50
+     - 0.75
+     - .50:0.95
      
