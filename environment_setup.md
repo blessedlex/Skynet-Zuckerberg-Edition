@@ -46,6 +46,19 @@ After these changes have been made, run the following command to install torch:
 TORCH_LUA_VERSION=LUA52 ./install.sh
 ```
 
+If the installation fails due to an error with this message:
+
+```
+...error: more than one operator "!=" matches these operands:...
+```
+
+Run the following commands, then rerun the installation script.
+
+```
+./clean.sh
+export TORCH_NVCC_FLAGS="-D__CUDA_NO_HALF_OPERATORS__"
+```
+
 Once the script finishes, you will be prompted to prepend the Torch install location to PATH and LD_LIBRARY_PATH.
 Type `yes` and press enter to finish the installation.
 
