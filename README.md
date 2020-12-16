@@ -102,6 +102,8 @@ To capture the transmitted packets, we will use the following procedure in Wires
 
   4. Stop capturing packets in Wireshark, and then gather the relevant traffic and export to a capture file. This file will later be searched for any traffic which contains data that is not explicitly permitted according to our findings from policy and legal research.
 
+*3. Training and Testing DeepMask models for efficacy with varying smaple size*
+
 #### Delivery Stage
 *- We will compile all of our findings into our Github's project readme document and files*
 
@@ -109,21 +111,25 @@ To capture the transmitted packets, we will use the following procedure in Wires
 
 *- We will create a report and presentation on our results from our testing outlined above*
 
-#### Results / Findings
+### Results / Findings
 (brief overview of outcomes - what did you achieve?, list milestone 1/2/3 outcomes, make an effort to logically collect and organize the findings)
 
 (bulleted lists can also be helpful to structure your results discussion)
 * outcome 1
 * outcome 2
 
-#### Install Instructions (if applicable)
-##### Requirements
-(list of any software / hardware requirements necessary to run the code/app/etc)
+### Install Instructions (if applicable)
+#### Requirements
+* CUDA Toolkit
+* cuDNN
+* Torch
+* LUA Rocks
+* Deepmask and Sharpmask <br>
 
-##### Installation Instructions
-(list of steps to install the product/app/code/etc)
+#### Installation Instructions
+[Documentation](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/blob/master/environment_setup.md)
 
-##### Getting started
+#### Getting started
 (list of any steps to run the code after installation and/or manage the apps over their lifecycle)
 
 ## Presentation
