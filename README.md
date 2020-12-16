@@ -6,7 +6,10 @@
 
 # Milestone 3: Final Project Milestone 
 ## Project Realization Progress Report
+(Milestone-3.md)[]
+
 ## Final Report: Packaging and Release
+(FinalReport.md)[]
 ## Presentation
 (Milestone 3 Presentation)[]
 
