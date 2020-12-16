@@ -10,6 +10,10 @@ Pretzel, A. (n.d.). Using biometric facial recognition for verification and iden
 
 ROBLES, JESSICA. “Patel V. Facebook, Inc.: The Collection, Storage, and Use of Biometric Data as a Concrete Injury under Bipa.” Golden Gate University Law Review, vol. 50, no. 1, Jan. 2020, pp. 61–72. EBSCOhost, search.ebscohost.com/login.aspx?direct=true&db=a9h&AN=144518473&site=ehost-live&scope=site.
 
+Taigman, B., Yang, M., Ranzato, M., & Wolf, L. (2014, June 24). DeepFace: Closing the Gap to Human-Level Performance in Face Verification. Retrieved from https://research.fb.com/publications/deepface-closing-the-gap-to-human-level-performance-in-face-verification/
+
+Tan, R. (2019, March 24). Breaking down Mean Average Precision (mAP). Retrieved December 16, 2020, from https://towardsdatascience.com/breaking-down-mean-average-precision-map-ae462f623a52
+
 Tsang, Sik-Ho. “Review: DeepMask (Instance Segmentation).” Medium, Towards Data Science, 19 Dec. 2018, towardsdatascience.com/review-deepmask-instance-segmentation-30327a072339.
 
 Zagoruyko, Sergey, et al. “A MultiPath Network for Object Detection.” ArXiv.org, Cornell University, 8 Aug. 2016, arxiv.org/abs/1604.02135.
