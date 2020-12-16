@@ -1,6 +1,7 @@
 # Computing Environment
 
-To run Deepmask and Sharpmask, you will need an installation of Ubuntu 16.04 LTS.
+To run Deepmask and Sharpmask, you will need an installation of Linux.
+Not all flavors of Linux are supported; for our testing, Ubuntu 16.04 LTS was used.
 This cannot be a virtual machine, as the environment will need to use Nvidia's drivers.
 Additionally, you will need an Nvidia GPU with a compute compatibility of 3.5 or higher.
 
