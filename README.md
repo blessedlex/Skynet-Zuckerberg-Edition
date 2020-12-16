@@ -112,11 +112,22 @@ To capture the transmitted packets, we will use the following procedure in Wires
 *- We will create a report and presentation on our results from our testing outlined above*
 
 ### Results / Findings
-(brief overview of outcomes - what did you achieve?, list milestone 1/2/3 outcomes, make an effort to logically collect and organize the findings)
+#### Milestone 1
+* <b> Outcome 1</b>: Compiled information for a Literature Review.
+* <b> Outcome 2</b>: Created a plan for the semester project.
 
-(bulleted lists can also be helpful to structure your results discussion)
-* outcome 1
-* outcome 2
+#### Milestone 2
+* <b> Outcome 1</b>: We started by packet capturing the network traffic on Facebook using Wireshark to discern if any user data that should not be obtained from Facebook was harvested. We were able to decrypt the TCP packet information from Wireshark by creating a system environment variable called SSLKEYLOGFILE. This harvests the session keys from a SSL layer then passes the key log file into Wireshark to automatically decrypt the file. That then tells us what is being sent over the network by observing what's in the packet. We acheived the browser data of what the image upload sent to Facebook's servers was and we discovered evidence of a key logger called CavalryLogger, which activates when you click on a 'Like' button. We have not determined if this is legal based on Facebook's regulations but there are implications for user's privacy.
+
+* <b> Outcome 2</b>: We have initiated a HTTP method capture in Postman instead that will yield more useful information that is easier to interpret. To collect the input infromation provided by the user to Facebook when uploading images. Here is the HTTP request captured by Postman app on a Facebook upload. [Upload Capture](https://www.getpostman.com/collections/8cece61b74a2db5e8aaf).
+
+* <b> Outcome 3</b>: We wanted to test the user interface to discern if the auto-tagging feature would provide any insight to misuse behavior or poor accuracy in user media uploads. This included a false auto-tag of not properly tagging a user who has uploaded a photo of themselves along with not tagging that specific user's friends in a photo when uploaded as well. The facial recognition AI will not recognize the faces of animals as a tag. The effort made in these areas has shown to be trivial due to the user interface behavior behaving according to the user's settings. We are still doing extensive testing on the accuracy of this behavior to try to replicate the behavior. Our expectation is that the accuracy of this behavior is due to a bias that Facebook has implemented through their coding algorithms. Certain data inputs (user photo uploads) do not get tagged properly (auto or manually) depending on the object, gender or race, as well as if the user has a brand new account with not enough data points for Facebook's AI to understand yet. [Facebook UI Test Documentation](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/issues/18) [Facebook Auto-Tagging Testing](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/wiki/Facebook-Auto-tagging-Testing)
+
+* <b> Outcome 4</b>: We achieved the proper way to conduct our environment setup with hopes of testing DeepMask and MultiPath networks. 
+
+#### Milestone 3
+* <b> Outcome 1</b>: 
+* <b> Outcome 2</b>: 
 
 ### Install Instructions (if applicable)
 #### Requirements
@@ -127,7 +138,7 @@ To capture the transmitted packets, we will use the following procedure in Wires
 * Deepmask and Sharpmask <br>
 
 #### Installation Instructions
-[Documentation](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/blob/master/environment_setup.md)
+[Installation Documentation](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/blob/master/environment_setup.md)
 
 #### Getting started
 (list of any steps to run the code after installation and/or manage the apps over their lifecycle)
