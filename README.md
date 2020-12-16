@@ -138,7 +138,9 @@ To capture the transmitted packets, we will use the following procedure in Wires
 * Deepmask and Sharpmask <br>
 
 #### Installation Instructions
-[Installation Documentation](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/blob/master/environment_setup.md)
+[Installation Documentation for CUDA Toolkit, cuDNN, Torch, LUA Rocks, and DeepMask & Sharpmask](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/blob/master/environment_setup.md)
+[Postman Configuration](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/blob/master/Postman%20Configuration.md)
+[WireShark Configuration](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/blob/master/Configuration%20for%20WireShark.md)
 
 #### Getting started
 (list of any steps to run the code after installation and/or manage the apps over their lifecycle)
