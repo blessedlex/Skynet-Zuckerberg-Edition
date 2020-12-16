@@ -144,6 +144,7 @@ To capture the transmitted packets, we will use the following procedure in Wires
 
 #### Getting started
 (list of any steps to run the code after installation and/or manage the apps over their lifecycle)
+[Neural Network Procedures](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/blob/master/NNTestingProcedure.md)
 
 ## Presentation
 (Milestone 3 Presentation)[]
