@@ -131,6 +131,8 @@ To capture the transmitted packets, we will use the following procedure in Wires
 
 ### Install Instructions (if applicable)
 #### Requirements
+* WireShark
+* Postman
 * CUDA Toolkit
 * cuDNN
 * Torch
@@ -138,12 +140,12 @@ To capture the transmitted packets, we will use the following procedure in Wires
 * Deepmask and Sharpmask <br>
 
 #### Installation Instructions
-[Installation Documentation for CUDA Toolkit, cuDNN, Torch, LUA Rocks, and DeepMask & Sharpmask](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/blob/master/environment_setup.md)
-[Postman Configuration](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/blob/master/Postman%20Configuration.md)
-[WireShark Configuration](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/blob/master/Configuration%20for%20WireShark.md)
+[Postman Configuration](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/blob/master/Postman%20Configuration.md)<br>
+[WireShark Configuration](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/blob/master/Configuration%20for%20WireShark.md)<br>
+[Installation Documentation for CUDA Toolkit, cuDNN, Torch, LUA Rocks, and DeepMask & Sharpmask](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/blob/master/environment_setup.md) 
 
 #### Getting started
-(list of any steps to run the code after installation and/or manage the apps over their lifecycle)
+[Postman Procedure](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/blob/master/Postman%20Testing%20Procedure.md)
 [Neural Network Procedures](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/blob/master/NNTestingProcedure.md)
 
 ## Presentation
