@@ -96,6 +96,13 @@ To capture the transmitted packets, we will use the following procedure in Wires
 
 *3. Training and Testing DeepMask models for efficacy with varying smaple size*
 
+We need a linux with a video graphics card. This was the base of creating a Deepmask model to training to examine images given to it and evaluating the efficacy of the results.
+
+1. Install Torch and Deepmask 
+
+2. Run Training Script to produce Deepmask model
+
+3. Run the Evaluation script on the Deepmask model
 
 #### Delivery Stage
 *- We will compile all of our findings into our Github's project readme document and files*
@@ -106,7 +113,7 @@ To capture the transmitted packets, we will use the following procedure in Wires
 
 ### Results / Findings
 #### Milestone 1
-* <b> Outcome 1</b>: Compiled information for a Literature Review.
+* <b> Outcome 1</b>: Compiled information for a Literature Review and related information. [Link](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/blob/master/DeepMaskBreakdown.md)
 * <b> Outcome 2</b>: Created a plan for the semester project.
 
 #### Milestone 2
