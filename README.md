@@ -153,7 +153,7 @@ We need a linux with a video graphics card. This was the base of creating a Deep
 [Neural Network Procedures](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/blob/master/NNTestingProcedure.md)
 
 ## Presentation
-(Milestone 3 Presentation)[]
+(Milestone 3 Presentation)[https://app.vidgrid.com/view/AnnUsh77c4re?]
 
 
 
