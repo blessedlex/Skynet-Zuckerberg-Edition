@@ -4,6 +4,8 @@ Gershgorn, Dave. “Inside Facebook's Artificial Intelligence Lab.” Popular Sc
 
 Gibson, Eli & Li, Wenqi & Sudre, Carole & Fidon, Lucas & Shakir, Dzoshkun & Wang, Guotai & Eaton-Rosen, Zach & Gray, Robert & Doel, Tom & Hu, Yipeng & Whyntie, Tom & Nachev, Parashkev & Barratt, Dean & Ourselin, Sébastien & Cardoso, Manuel Jorge & Vercauteren, Tom. (2017). NiftyNet: a deep-learning platform for medical imaging. Computer Methods and Programs in Biomedicine. 158. 10.1016/j.cmpb.2018.01.025. 
 
+Pinheiro, Pedro O. et. al. "Deepmask." FaceBook Research, 2019. https://github.com/facebookresearch/deepmask. Accessed August 2020.
+
 Postman. “Using Postman Interceptor.” Postman Learning Center, learning.postman.com/docs/sending-requests/capturing-request-data/interceptor/.
 
 Pretzel, A. (n.d.). Using biometric facial recognition for verification and identification. 38th Annual 2004 International Carnahan Conference on Security Technology, 2004. doi:10.1109/ccst.2004.1405410
@@ -18,4 +20,5 @@ Tsang, Sik-Ho. “Review: DeepMask (Instance Segmentation).” Medium, Towards D
 
 Zagoruyko, Sergey, et al. “A MultiPath Network for Object Detection.” ArXiv.org, Cornell University, 8 Aug. 2016, arxiv.org/abs/1604.02135.
 
+Zagoruyko, Sergey et. al. "MultiPathNet." FaceBook Research, 2019. https://github.com/facebookresearch/multipathnet. Accessed August 2020
 
