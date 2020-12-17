@@ -8,9 +8,9 @@ DeepMask: This is the Deepmask AI. This creates the Deepmask Model
     
 SharpMask.lua: This is the SharpMask AI. This creates the Sharpmask model. 
   
-TrainerDeepmask.lua: This is in charge of training DeepMask. It has a Trunk model tree. The trunk tree has mask and score branches.
+TrainerDeepmask.lua: This is in charge of training DeepMask. It has a Trunk model tree. The trunk tree has mask and score branches (Pinheiro, 2019).
 
-TrainerSharpMask: This is part of training and testing loops for SharpMask. It uses a Torch.CudaTenser to help train it.
+TrainerSharpMask: This is part of training and testing loops for SharpMask. It uses a "Torch.CudaTenser" to help train it (Pinheiro, 2019).
 
 computePurposals.lua: The job of file is to take various images and create a inference image (Pinheiro, 2019).
 
