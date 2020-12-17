@@ -70,19 +70,19 @@ modelUtils- This handles the utilities for models.
 Train.lua: File in charge of training. It contains the options to run DeepMask and SharpMask. It oversees initializing both models, saving them, and incharge of conducting the training based on File Paths.
 
 TrainMeters.Lua: train the measurements of DeepMask and SharpMask
-    - Notes: Uses LossMeter
-    - Class Loss Meter: used to measure the average loss
+  - Notes: Uses LossMeter
+  - Class Loss Meter: used to measure the average loss
 	- Function: initializes the lost module
 	- Function: Used to reset the lost module
 	- Function: Used to add the sum, while keeping track of n
 	- Function: Used to take sum divided by n for the value
-    - Class Binary Meter: predicts object score and ground truth object notation
+  - Class Binary Meter: predicts object score and ground truth object notation
 	- Function: Initializes
 	- Function: Resets
 	- Function: Have target and output. It uses a function called squeeze. It checks to see if it matches.  It then determines the accuracy. Finally it resets the files. I
 
 Ioumeter: measure iou between inferred and ground truth mask
-	- Function: It initializes
-	- Function: resets
-	- Function: This is in charge of calculating the iou meter.
-	- Function: Determines the value of iou
+  - Function: It initializes
+  - Function: resets
+  - Function: This is in charge of calculating the iou meter.
+  - Function: Determines the value of iou
