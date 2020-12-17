@@ -126,7 +126,12 @@ To capture the transmitted packets, we will use the following procedure in Wires
 * <b> Outcome 4</b>: We achieved the proper way to conduct our environment setup with hopes of testing DeepMask and MultiPath networks. 
 
 #### Milestone 3
-* <b> Outcome 1</b>: We ran a deepmask model through training and analyzed outputted information.
+* <b> Outcome 1</b>: After fully integrating our setup enivornment in Milestone 2, we achieved the training of our coding algorithm, DeepMask, so that we could begin testing the model. We achieved the testing results after 5 days of training took place. The results are linked here: [DeepMask Results](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/blob/master/deepmask_results.md)
+
+* <b> Outcome 2</b>: Diagram of what the neural network looks like for DeepMask and MultiPathNet -- [Neural Network Diagrams](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/blob/master/neural_network_diagrams.md)
+
+* <b> Outcome 3</b>: We were able to determine what the facial recognition libraries use and the potential privacy implications for that use and summarize and conclude the results we observed from the algorithms. 
+
 
 ### Install Instructions (if applicable)
 #### Requirements
