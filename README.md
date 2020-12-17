@@ -6,7 +6,7 @@
 
 # Milestone 3: Final Project Milestone 
 ## Project Realization Progress Report
-(Milestone-3.md)[]
+[Milestone-3.md](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/blob/master/milestone-3.md?)
 
 ## Final Report: Packaging and Release
 ### Executive Summary
@@ -14,10 +14,11 @@ Training an artificial intelligence to better understand the world through the i
 
 The main objectives that we've outlined include:
 - Analyzing Facebook's open source facial recognition and AI libraries 
-- Documenting what information or data is extracted from user videos and images
-- Determine from the collection of user data, facial or otherwise, is the use of facial recognition a violation of people's privacy by not obtaining appropriate user consent?
-  
-The merit of accomplishing our project’s goals and objectives is to provide clear implications for social media use. Specifically, Facebook’s AI research into facial recognition and how its user policy agreements are not being concise about consent to this.
+- Testing the front-end user interface to obtain any bias and implications for privacy
+- Passive network traffic captures using Postman and Wireshark applications
+- Training the code algorithms and testing the facial recognition models to draw privacy implications
+
+The merit of accomplishing our project’s goals and objectives is to provide clear implications for Facebook's social media use. 
 
 ### Project Goals
 * Analyze and test Facebook's open-source facial recognition libraries<br>
@@ -30,25 +31,16 @@ The merit of accomplishing our project’s goals and objectives is to provide cl
 Based on the articles, we plan on examining and testing the code libraries for data vulnerablities. 
 
 #### Discovery Stage
-*- To analyze the code libraries...*
+*- To analyze and test the code libraries...*
 
 We plan to comb through the deepmask and multipath repositositories. While looking through these repositories, we will be taking short notes over what each file does. This allows us to be more focused on the process and less on the code. Most efforts of documentation will be for the data that is obtained and how it will be obtained. We plan to take notes on the data structure to see how the data is represented. Through this we can analyze the empty shell and see the type of data that is being stored. Also, we are taking notes on the behavior of the AI. By understanding the behavior of the AI, we can see what information is needed to complete its job. This will be done by seeing what functions are used and training that is involved.
 
-*- Data collection of Facebook's Policy on Privacy, Data, and Terms...*
+*- Draw conclusions from how the code functions...*
 
-For reviewing the Facebook policies, we plan on focusing on the policies that surround Biometric data. This includes how the data is being handled and whether
-Facebook is recording the data without consent. With focusing on the how the data is being handled, this will allow us to determine whether Facebook is taking the 
-necessary steps to keep the data out of unsecure hands.  Also, for the permission to take biometric data, we would want to see if Facebook notifying the 
-users if their data is recorded. We want to know if we have the option to revoke the permission of Facebook recording the data. Finally, the last thing 
-we would like to know, if we delete our accounts will the biometric data be deleted.
+- What dependencies do the facial recognition libraries use? 
+- Summarize & conclude the results we observed from the algorithms
 
-*- By observing and documenting how the code works and the policies used by Facebook...* 
-
-For this part we plan to compare the code to the policies we reviewed. We want to see if Facebook has violated its own security policies for biometric data. 
-Through comparing the results, we can also judge whether there needs to be a change in certain policies that do not cover enough, or we can suggest
-new policies to help cover certain grey areas if they exist.
-
-*- By researching what Convolutional Neural Networks (CNNs) are and how they are being used to accomplish Facebook's tasks...*
+*- By researching what Convolutional Neural Networks (CNNs) are and what ours will looks like...*
 
 We can further deduce what exactly Facebook is using user's facial recognition data for. From the information we've gathered, a convolutional neural network is a type of deep learning algorithm. It is a kind of artificial neural network (computing systems that are based on a collection of connected units or nodes called artificial neurons) that employs convolution methodology to extract the features from the input data to increase the number of features. Computer vision neural network deep learning models are used to interpret the content of photos users have posted and decide which to surface in the "on this day" feature. So the models underlying the feature have to interpret images and develop a semantic understanding of what's happening. It does this in part by identifying people and objects in images and interpreting the context around them. The models were trained on more than a billion photos that have been uploaded to Facebook over the years, and they have to score in real time millions of new images uploaded each day. It all comes back to keeping users engaged on the social network. Deep learning has played an important role in Facebook's ability to do so, filling a crucial need in the company's business model. 
 
@@ -104,10 +96,11 @@ To capture the transmitted packets, we will use the following procedure in Wires
 
 *3. Training and Testing DeepMask models for efficacy with varying smaple size*
 
+
 #### Delivery Stage
 *- We will compile all of our findings into our Github's project readme document and files*
 
-*- We will conclude from our discoveries if the social media usage implications are made succinct in Facebook's policies*
+*- We will conclude from our discoveries if there are any social media implications for privacy*
 
 *- We will create a report and presentation on our results from our testing outlined above*
 
