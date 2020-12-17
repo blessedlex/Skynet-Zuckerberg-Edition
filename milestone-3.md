@@ -7,11 +7,11 @@ Splitting up the work load for this milestone looked differently than earlier on
 Ultimately, from analyzing and training the code algorithms from Facebook's open source libraries, we are able to pull some implications from our findings. Listed below are our outcomes.
 
 ## Outcomes
-*Outcome 1: After fully integrating our setup enivornment in Milestone 2, we achieved the training of our coding algorithm, DeepMask, so that we could begin testing the model. We achieved the testing results after 5 days of training took place. The results are linked here: [DeepMask Results](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/blob/master/deepmask_results.md)
+* Outcome 1: After fully integrating our setup enivornment in Milestone 2, we achieved the training of our coding algorithm, DeepMask, so that we could begin testing the model. We achieved the testing results after 5 days of training took place. The results are linked here: [DeepMask Results](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/blob/master/deepmask_results.md)
 
-*Outcome 2: Diagram of what the neural network looks like for DeepMask and MultiPathNet -- [Neural Network Diagrams](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/blob/master/neural_network_diagrams.md)
+* Outcome 2: Diagram of what the neural network looks like for DeepMask and MultiPathNet -- [Neural Network Diagrams](https://github.com/blessedlex/Skynet-Zuckerberg-Edition/blob/master/neural_network_diagrams.md)
 
-*Outcome 3: We were able to determine what the facial recognition libraries use and the potential privacy implications for that use and summarize and conclude the results we observed from the algorithms. 
+* Outcome 3: We were able to determine what the facial recognition libraries use and the potential privacy implications for that use and summarize and conclude the results we observed from the algorithms. 
 
 
 ## Hinderances
