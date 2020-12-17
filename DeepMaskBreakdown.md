@@ -86,3 +86,6 @@ Ioumeter: measure iou between inferred and ground truth mask
   - Function: resets
   - Function: This is in charge of calculating the iou meter.
   - Function: Determines the value of iou
+
+Sources:
+[Deepmask/Sharpmask](https://github.com/facebookresearch/deepmask)
