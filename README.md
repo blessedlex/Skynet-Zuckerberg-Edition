@@ -126,8 +126,7 @@ To capture the transmitted packets, we will use the following procedure in Wires
 * <b> Outcome 4</b>: We achieved the proper way to conduct our environment setup with hopes of testing DeepMask and MultiPath networks. 
 
 #### Milestone 3
-* <b> Outcome 1</b>: 
-* <b> Outcome 2</b>: 
+* <b> Outcome 1</b>: We ran a deepmask model through training and analyzed outputted information.
 
 ### Install Instructions (if applicable)
 #### Requirements
