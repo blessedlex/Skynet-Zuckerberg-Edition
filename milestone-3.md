@@ -15,6 +15,6 @@ Ultimately, from analyzing and training the code algorithms from Facebook's open
 
 
 ## Hinderances
-We were not able to complete training and testing of the MultiPathNet algorithm due to time constraints and our hardware capabilities. Our hardware was not able to reduce the length of time it takes for the algorithm to be completely trained. Before changing direction in our scope, we may have been about to mitigate this challenge by utilizing the Holland Computing Center on-campus at the Peter Kiewit Institute. 
+We were not able to complete training and testing of the MultiPathNet algorithm due to time constraints and our hardware capabilities. Our hardware was not able to reduce the length of time it takes for the algorithm to be completely trained. Before changing direction in our scope, we may have been able to mitigate this challenge by utilizing the Holland Computing Center on-campus at the Peter Kiewit Institute. 
 
 Making sense of the terminology from our training and testing hindered our overall comprehension of what the training results revealed. More research into this was necessary to get a better understanding due to an ultimate learning curve for our team. From our initial goals and objectives, we did not account a change in scope mid-way through Milestone 2. This completely changed our expected outcomes leading our team to compensate for the change in direction and hustle to compile non-trivial findings and outcomes in a short time window.
