@@ -5,7 +5,7 @@
 DataSampler: This is used to create a DataSampler. This is used for training and evaluation.
   - Function: Init
   - Function: creates a BB struct of bojects for score sampling.
-  -Function: get size of epoch
+  - Function: get size of epoch
   - Function: It gets a sample
   - Function: mask sampling
   - Function: score head sampler
